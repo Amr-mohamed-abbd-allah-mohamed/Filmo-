@@ -1,4 +1,4 @@
-# 🎬 Movies Discovery
+# 🎬 Filmo
 
 ## 👥 Team Members
   - *Amr Mohamed* (Team Leader)
