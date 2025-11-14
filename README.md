@@ -7,7 +7,9 @@
   - *Rokaya Taha*
 
 ## 🎥 Description
-An Android app built with Kotlin and Jetpack Compose that lets users explore movies, check ratings, read short descriptions, and organize favorites across categories. It fetches real-time data from an online API and displays it in an easy-to-use interface.
+
+The Movie App is a modern Android application designed to provide users with a seamless and intuitive experience for exploring movies. It features a clean and responsive UI built with Jetpack Compose, offering fast navigation and smooth interactions. Users can browse a curated list of movies, view detailed information for each title, and manage their profile through a simple and user-friendly registration and login flow. The app emphasizes performance, clarity, and ease of use, making it suitable for both casual users and film enthusiasts.
+
 
 
 # 📄 Team Responsibilities
