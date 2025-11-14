@@ -8,7 +8,9 @@
 
 ## 🎥 Description
 
-The Movie App is a modern Android application designed to provide users with a seamless and intuitive experience for exploring movies. It features a clean and responsive UI built with Jetpack Compose, offering fast navigation and smooth interactions. Users can browse a curated list of movies, view detailed information for each title, and manage their profile through a simple and user-friendly registration and login flow. The app emphasizes performance, clarity, and ease of use, making it suitable for both casual users and film enthusiasts.
+The Movie App is a modern Android application designed to provide users with a seamless and intuitive experience for exploring movies. It features a clean and responsive UI built with Jetpack Compose, offering fast navigation and smooth interactions. Users can browse a curated list of popular and trending movies, view detailed information for each title including ratings, release dates, and synopses, and manage their personal favorites list with ease.
+
+The app includes a simple and secure registration and login flow, ensuring that user data is protected while providing a personalized experience. With a focus on performance, clarity, and user engagement, the Movie App allows both casual viewers and film enthusiasts to discover, save, and enjoy their favorite movies in a convenient and visually appealing way.
 
 
 
