@@ -10,11 +10,24 @@
 An Android app built with Kotlin and Jetpack Compose that lets users explore movies, check ratings, read short descriptions, and organize favorites across categories. It fetches real-time data from an online API and displays it in an easy-to-use interface.
 
 
-## 🧩 Roles & Responsibilities
-  - *Amr Mohamed* – Responsible for writing the logic code.
-  - *Abdalrahman Mohamed* – Responsible for writing the logic code.
-  - *Salma Fathy* - Responsible for the app design.
-  - *Rokaya Taha* – Responsible for Firebase integration.
+# 📄 Team Responsibilities
+
+### **Amr Mohamed**
+- Responsible for the **Sign Up (Registration)** screen.
+- Responsible for the **Movie Details** screen.
+
+### **Abdalrahman Mohamed**
+- Responsible for the **Home screen**.
+- Responsible for the **Login screen**.
+
+### **Salma Fathy**
+- Responsible for the **My List** screen.
+- Responsible for the **Search screen**.
+
+### **Rokaya Taha**
+- Responsible for the **Splash screen**.
+- Responsible for the **Search screen**.
+
 ## Work Plan
 
 1. **Research & Analysis**  
