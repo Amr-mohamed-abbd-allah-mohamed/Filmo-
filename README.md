@@ -69,6 +69,10 @@ To measure the success of this project, we plan to track the following KPIs:
 
 5. **Customer Satisfaction**  
    - Target: Achieve a satisfaction rating of 4.5/5 or higher in user feedback surveys.
+     
+ ## License
+  -This project is licensed under the MIT License.
+
 
 ## 👨🏼‍🏫 Instructor 
   - Ahmed Atef
