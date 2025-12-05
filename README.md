@@ -94,5 +94,5 @@ To measure the success of this project, we plan to track the following KPIs:
 
 ## 🔗 Project Resources
 You can find the full project files here:
-- 📂 [Google Drive Link](https://drive.google.com/file/d/1a-Ji_phdkRQZNWyUOcDXIigYPHXr-oO_/view?usp=sharing)
+- 📂 [Google Drive Link] (https://drive.google.com/drive/folders/1-1oWmRgsdUjY7Li460cbpgYgEQ84_-5C?usp=sharing)
 - 💻 [GitHub Repository](https://github.com/Amr-mohamed-abbd-allah-mohamed/movies-discovery-)
