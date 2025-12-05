@@ -25,9 +25,9 @@ The app includes a simple and secure registration and login flow, ensuring that 
 - Responsible for the **Login screen**.
 
 ### **Salma Fathy**
-- Responsible for the **My List** screen.
+- Responsible for the **My List screen** .
 - Responsible for the **Search screen**.
--  Responsible for the **My List profile**screen.
+-  Responsible for the **My List profile screen**.
 
 ### **Rokaya Taha**
 - Responsible for the **Splash screen**.
@@ -57,7 +57,7 @@ The app includes a simple and secure registration and login flow, ensuring that 
 To measure the success of this project, we plan to track the following KPIs:
 
 1. **Response Time**  
-   - Target: The system should respond to user requests within 2 seconds on average.
+   - Target: The system should respond to user requests within 1 seconds on average.
 
 2. **System Uptime**  
    - Target: Maintain at least 99% uptime during operation.
@@ -66,7 +66,7 @@ To measure the success of this project, we plan to track the following KPIs:
    - Target: At least 200 active users within the first 3 months after launch.
 
 4. **Error Rate**  
-   - Target: Less than 1% of total requests should fail.
+   - Target: Less than 0% of total requests should fail.
 
 5. **Customer Satisfaction**  
    - Target: Achieve a satisfaction rating of 4.5/5 or higher in user feedback surveys.
