@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254867793627",
+    "project_id": "filmo-cebfe",
+    "storage_bucket": "filmo-cebfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254867793627:android:f149b89c599b3588278efe",
+        "android_client_info": {
+          "package_name": "com.example.filmo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9L_yrAa83y5ujDySfSYHGgwdO0AZoI4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
