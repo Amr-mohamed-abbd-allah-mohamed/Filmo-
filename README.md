@@ -27,6 +27,7 @@ The app includes a simple and secure registration and login flow, ensuring that 
 ### **Salma Fathy**
 - Responsible for the **My List** screen.
 - Responsible for the **Search screen**.
+-  Responsible for the **My List profile**screen.
 
 ### **Rokaya Taha**
 - Responsible for the **Splash screen**.
